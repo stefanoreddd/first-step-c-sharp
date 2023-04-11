@@ -6,3 +6,9 @@ Console.WriteLine("Ciao a tutti! Come state?");
 var risposta = Console.ReadLine();
 
 Console.WriteLine("Grazie Mille! Noto che stai " +  risposta);
+
+Console.WriteLine("Spiegami perché stai " + risposta);
+
+var motivazione = Console.ReadLine();
+
+Console.WriteLine("Ok, capisco");
